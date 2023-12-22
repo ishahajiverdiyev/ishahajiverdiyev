@@ -1,3 +1,13 @@
+<style>
+    .container {
+      display: flex;
+      justify-content: space-between;
+    }
+    .stats-card {
+      width: 49%;
+    }
+  </style>
+  
 <h1 align="center">Hi 👋, I'm Albert</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishahajiverdiyev&label=Profile%20views&color=0e75b6&style=flat" alt="ishahajiverdiyev" /> </p>
 <h3 align="left">Connect with me:</h3>
@@ -22,11 +32,15 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahajiverdiyev&layout=compact&theme=default" alt=ishahajiverdiyev />
-
-<p>&nbsp;<img align="right" height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ishahajiverdiyev&show_icons=true&locale=en&theme=default" alt="ishahajiverdiyev" /></p>
-
+<div class="container">
+    <div class="stats-card">
+      <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahajiverdiyev&layout=compact&theme=default" alt="Top Languages" />
+    </div>
+    <div class="stats-card">
+      <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=ishahajiverdiyev&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+    </div>
+  </div>
+  
 <div align="center">
 <a href="https://github.com/ishahajiverdiyev">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishahajiverdiyev&theme=2077" height="180em" />
