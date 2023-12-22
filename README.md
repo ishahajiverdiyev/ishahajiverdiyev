@@ -24,8 +24,8 @@
 
 <h3 align="left">Stars</h3>
 <div style="display: flex; justify-content: space-between;">
-  <img style="float: left;" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahajiverdiyev&layout=compact&theme=default" alt="ishahajiverdiyev" />
-  <img style="float: right;" height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ishahajiverdiyev&show_icons=true&locale=en&theme=default" alt="ishahajiverdiyev" />
+ <img style="float: right;" height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ishahajiverdiyev&show_icons=true&locale=en&theme=default" alt="ishahajiverdiyev" />
+ <img style="float: left;" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahajiverdiyev&layout=compact&theme=default" alt="ishahajiverdiyev" />
 </div>
 <div align="center">
 <a href="https://github.com/ishahajiverdiyev">
