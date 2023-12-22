@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albert</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishahajiverdiyev&label=Profile%20views&color=0e75b6&style=flat" alt="ishahajiverdiyev" /> </p>
-<div> <a href="https://github.com/ishahajiverdiyev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/albert.apk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/albert.apk" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="albert.apk" height="30" width="40" /></a></p>
 
@@ -25,16 +23,11 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahajiverdiyev&layout=compact&theme=default" alt=ishahajiverdiyev />
+<img align="left" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahajiverdiyev&layout=compact&theme=default" alt=ishahajiverdiyev />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ishahajiverdiyev&show_icons=true&locale=en&theme=default" alt="ishahajiverdiyev" /></p>
+<p>&nbsp;<img align="right" height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ishahajiverdiyev&show_icons=true&locale=en&theme=default" alt="ishahajiverdiyev" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/ishahajiverdiyev">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishahajiverdiyev&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishahajiverdiyev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishahajiverdiyev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishahajiverdiyev&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishahajiverdiyev&theme=2077" height="180em" />
 </div>
