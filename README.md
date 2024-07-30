@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="9" />
+  <img width="9" />  
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
@@ -28,20 +28,20 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="9" />
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="40" alt="codeigniter logo"  />
-  <img width="9" />
+  <img width="9" />  
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="9" />
+  <img width="9" />  
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="9" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="9" />
@@ -62,9 +62,9 @@
 
 <br clear="both">
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishahajiverdiyev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" style="width: 37%; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishahajiverdiyev&theme=dark&hide_border=false&count_private=true" alt="stats graph" style="width: 37%; margin-right: 10px;"/>
   <img width="9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishahajiverdiyev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" style="width: 30%; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahajiverdiyev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" style="width: 29%; margin-right: 10px;"/>
   <img width="9" />
   <img height="132" src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" alt="GIF" style="margin-left: auto;"/>
 </div>
